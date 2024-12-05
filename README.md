@@ -10,7 +10,7 @@
   
 - 📫 augusto.nasc.05@gmail.com
   
-- 😄 Pronomes: ele/dele <br>
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
