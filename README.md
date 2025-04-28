@@ -29,7 +29,7 @@
 ### Como falar comigo:
 
 <p align="center">
-  <a href="augusto.nasc.05@gmail.com" target="_blank">
+  <a href="mailto:augusto.nasc.05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/augustosilvanascimento/" target="_blank">
